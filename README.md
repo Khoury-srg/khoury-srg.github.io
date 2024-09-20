@@ -1,3 +1,9 @@
+# Notes for archiving this repository
+
+## Due to domain validation issues, "srg.khoury.northeastern.edu" cannot be connected to the github page of this repository. "neu-srg/neu-srg.github.io" which is a part of the official Northeastern University github organization will be used to host the website for "srg.khoury.northeastern.edu".
+
+---
+
 ## Setting up and testing jekyll locally (Debian/Ubuntu).
 
 1. Install ruby and ruby-dev
